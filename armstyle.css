@@ -1,0 +1,432 @@
+/* รูปตัวเองในประวัติส่วนตัว */
+#arm1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 30px;
+    border-color: rgb(0, 4, 255);
+    border-style: solid;
+}
+
+/* หัวข้อในประวัติส่วนตัว */
+.p{
+    color:  rgb(124, 7, 148);
+}
+
+/* ข้อมูลในประวัติส่วนตัว */
+.p1{
+    color:  rgb(52, 22, 224);
+}
+
+#p2{
+    width: auto;
+    margin-left: 10px;
+    padding: 6px;
+    background-color: rgb(247, 113, 36);
+    border-radius: 30%;
+    border: 2px dashed black;
+    border-radius: 10px;
+    font-family:Kanit;
+    color:  rgb(5, 5, 5);
+}
+
+
+#p3{
+    width: auto;
+    margin-left:500px;
+    margin-right: 500px;
+    padding-top:8px ;
+    padding-bottom:5px ;
+    padding-left: 6px;
+    padding-right:6px ;
+    background-color: rgb(236, 109, 198);
+    border-radius: 30%;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-family:Kanit;
+    color:  rgb(5, 5, 5);
+}
+
+#p4{
+    width: auto;
+    margin-left:300px;
+    margin-right: 300px;
+    padding-top:6px ;
+    padding-bottom:6px ;
+    padding-left: 6px;
+    padding-right:6px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-size: 100% 100%;
+    background-image: url('https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg');
+    
+}
+
+#p5{
+    width: 400px;
+    margin-left:auto;
+    margin-right: auto;
+    padding-top:6px ;
+    padding-bottom:6px ;
+    padding-left:6px;
+    padding-right:6px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgb(203, 228, 93);
+}
+
+#p6{
+    width: auto;
+    margin-left:100px;
+    margin-right: 100px;
+    padding-top:6px ;
+    padding-bottom:6px ;
+    padding-left:6px;
+    padding-right:6px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-image:url('https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg');
+    background-repeat: no-repeat;
+    font-size: 20px ; 
+    margin-bottom: 5%;
+    background-size: 100% 100%;
+   
+}
+
+#p7{
+    border-bottom:5px solid black ;
+    padding: 7%;
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-illustrator-style-fresh-nature-spring-image_22201.jpg');
+    background-size:100% 100% ;
+    
+}
+
+#p8{
+text-align: center;
+font-size: 600%;
+font-family: item;
+color: darkgreen;
+
+}
+
+.p9{
+    width: 12cm;
+    height: 10cm;
+}
+
+.p9:hover{
+    box-shadow: 0 0 10px;
+    width: 14cm; 
+    height: 12cm;
+    border-width: 5px;
+    border-color: rgb(0, 4, 255);
+    border-style: solid;
+}
+
+.p10{
+    border-radius: 30px;
+    
+    border:5px solid rgb(255, 0, 0) ;
+}
+
+.p11{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border:5px solid rgb(69, 187, 241);
+    
+}
+.p12{
+    font-family:srisakdi ;
+    font-size: 500%;
+    margin-bottom: 2%;
+    margin-top: 1%;
+}
+
+#p13{
+    width: 6cm;
+    height: 5cm;  
+}
+#p13:hover{
+    width: 7cm;
+    height: 6cm;  
+}
+
+#p14{
+    display: block;
+    margin-left: 450px;
+    margin-right: 450px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(34, 221, 235);
+    border: 4px solid black;
+    border-radius: 15px;
+    font-family: sorasak;
+}
+#p15{
+display: block;
+margin-right:0% ;
+margin-left: 1117px;
+}
+
+#p16{
+    display: block;
+    margin-left: 500px;
+    margin-right: 500px ;
+    padding-top: 10px;
+    padding-bottom: 1px;
+    background-color: rgb(83, 192, 255);
+    border: 4px solid rgb(247, 237, 103);
+    border-radius: 15px;
+    font-family: sorasak;
+}
+   
+#p17{
+    width: auto;
+    margin-left:200px;
+    margin-right: 200px;
+    padding-top:6px ;
+    padding-bottom:6px ;
+    padding-left:6px;
+    padding-right:6px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-image:url('https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg');
+    background-repeat: no-repeat;
+    font-size: 20px ; 
+    margin-bottom: 5%;
+    background-size: 100% 100%;
+    font-family: sorasak1;
+}
+
+.p18{
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color: rgb(255, 0, 212);
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-top:5px ;
+  padding-bottom: 5px;
+  border: 3px solid rgb(66, 255, 246);
+  border-radius: 30px;
+}
+
+.p19{
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color: rgb(255, 0, 212);
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-top:5px ;
+  padding-bottom: 5px;
+  border: 3px solid rgb(66, 255, 246);
+  border-radius: 30px;
+}
+
+#p20{
+  width: 7cm;
+  height: 5cm;  
+}
+#p20:hover{
+  width: 6cm;
+  height: 5cm;  
+}
+
+#p21{
+  width: 5cm;
+  height: 5cm;  
+}
+#p21:hover{
+  width: 6cm;
+  height: 6cm;  
+}
+@font-face{
+    font-family: sorasak;
+    src: url('../font/Thasadith/Thasadith-Bold.ttf');
+}
+@font-face{
+    font-family:item ;
+    src: url('../font/Itim/Itim-Regular.ttf');
+}
+@font-face{
+    font-family: Kanit1;
+    src:url(../font/Oswald/static/Oswald-Bold.ttf)
+}
+/* fontหัวข้อประวัติส่วนตัว */
+@font-face{
+    font-family: Kanit;
+    src:url('../font/Taviraj/Taviraj-Bold.ttf')
+}
+
+@font-face{
+    font-family:srisakdi ;
+    src: url('../font/Srisakdi/Srisakdi-Bold.ttf');
+}
+@font-face{
+    font-family: sorasak1;
+    src: url("../font/Pattaya/Pattaya-Regular.ttf");
+}
+.Afont{
+    font-family:Kanit;
+    color:  rgb(3, 19, 247);
+}
+
+
+h1 {
+    text-align: center; 
+     
+}
+
+
+
+body{
+   
+    background-image:url('../images/cover.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+      
+}
+
+
+.c{
+    
+    margin-top:0%;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 0%;
+    background-image:url('https://images.unsplash.com/photo-1566933883366-5125a3414299?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTQ0fHxwYXR0ZXJufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
+    border: 5px solid black;
+}
+.c01{
+    
+    margin-top:60px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 60px;
+    background-image:url('https://images.unsplash.com/photo-1566933883366-5125a3414299?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTQ0fHxwYXR0ZXJufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
+    border: 5px solid black;
+}
+/* NAVBAL */
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  .topnav a 
+  {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover 
+  {
+    background-color: #ddd;
+    color: black;
+  }
+  .topnav a.active 
+  {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+/* ZOOM */
+  #myImg {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  #myImg:hover {opacity: 0.7;}
+  
+  /* The Modal (background) */
+  .modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+    
+  }
+  
+  /* Modal Content (image) */
+  .modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+  }
+  
+  /* Caption of Modal Image */
+  #caption {
+    margin: auto;
+    display: block;
+    width: 800%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+   
+  }
+  
+  /* Add Animation */
+  .modal-content, #caption {  
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  
+  @-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)} 
+    to {-webkit-transform:scale(1)}
+  }
+  
+  @keyframes zoom {
+    from {transform:scale(0)} 
+    to {transform:scale(1)}
+  }
+  
+  /* The Close Button */
+  .close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  /* 100% Image Width on Smaller Screens */
+  @media only screen and (max-width: 700px){
+    .modal-content {
+      width: 100%;
+    }
+  }
+
+
+
+
